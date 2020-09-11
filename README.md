@@ -9,4 +9,6 @@ Coding tools: [Anaconda](https://www.anaconda.com/products/individual), [Visual 
 
 Resources: [Getting started with Python in Visual Studio Code](https://youtu.be/7EXd4_ttIuw)
 
+Data sources: [Google datasearch](https://datasetsearch.research.google.com)
+
 Data science projects: [data science use cases from databricks](https://databricks.com/p/ebook/the-big-book-of-data-science-use-cases)
