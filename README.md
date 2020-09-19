@@ -7,8 +7,7 @@ We are generally following this [data science](https://github.com/boringPpl/data
 Coding language: Python 
 Coding tools: [Anaconda](https://www.anaconda.com/products/individual), [Visual Studio Code](https://code.visualstudio.com), [Github](https://github.com)
 
-Resources: [Getting started with Python in Visual Studio Code](https://youtu.be/7EXd4_ttIuw)
-[First time git setup in windows](http://kbroman.org/github_tutorial/pages/first_time.html)
+Resources: [Getting started with Python in Visual Studio Code](https://youtu.be/7EXd4_ttIuw), [First time git setup in windows](http://kbroman.org/github_tutorial/pages/first_time.html)
 
 Data sources: [Google datasearch](https://datasetsearch.research.google.com)
 
