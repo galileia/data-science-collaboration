@@ -1,4 +1,4 @@
-Data science projects for October 2020 
+Data science projects for October 2020  
 Project # 1: 
 - Connect to EIA API in a jupyter notebook and extract oil marketing data 
 - Data cleaning and wrangling in jupyter 
